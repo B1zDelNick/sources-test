@@ -391,7 +391,7 @@ export default class Make extends Phaser.State {
         }
     }
 
-    private changeDoll(): void { // comment
+    private changeDoll(): void { // comment addd
         if (this.changing) return;
         this.changing = true;
         this.currentDecor.hide();
