@@ -1,0 +1,30 @@
+{"frames": [
+
+{
+	"filename": "sh_3.png",
+	"frame": {"x":0,"y":0,"w":414,"h":598},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":598},
+	"sourceSize": {"w":414,"h":598},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sh_4.png",
+	"frame": {"x":0,"y":598,"w":414,"h":598},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":598},
+	"sourceSize": {"w":414,"h":598},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "doll_make_poco_3.png",
+	"format": "RGBA8888",
+	"size": {"w":414,"h":1196},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:de1ee30772cb4683a4279ee42b07e528:940e239a04d518d44d91664b15a4995d:cfbec8e93d663b1833e45150b655a2c4$"
+}
+}

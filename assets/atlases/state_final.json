@@ -1,0 +1,57 @@
+{"frames": [
+
+{
+	"filename": "cloud_1.png",
+	"frame": {"x":0,"y":319,"w":385,"h":354},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":354},
+	"sourceSize": {"w":385,"h":354},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cross_1.png",
+	"frame": {"x":362,"y":0,"w":362,"h":284},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":362,"h":284},
+	"sourceSize": {"w":362,"h":284},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cross_2.png",
+	"frame": {"x":0,"y":0,"w":362,"h":319},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":362,"h":319},
+	"sourceSize": {"w":362,"h":319},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "flash.png",
+	"frame": {"x":0,"y":1006,"w":862,"h":612},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":862,"h":612},
+	"sourceSize": {"w":862,"h":612},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gr_1.png",
+	"frame": {"x":385,"y":319,"w":483,"h":687},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":483,"h":687},
+	"sourceSize": {"w":483,"h":687},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "state_final.png",
+	"format": "RGBA8888",
+	"size": {"w":868,"h":1618},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a6c47d47556416738342c2ce74cda7b9:2e276bce70f59a46fc7eb0b991910c73:fa7765394e0e389ace335cfa7c993a79$"
+}
+}

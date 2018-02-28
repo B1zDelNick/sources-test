@@ -1,0 +1,30 @@
+{"frames": [
+
+{
+	"filename": "sh_4.png",
+	"frame": {"x":0,"y":0,"w":506,"h":670},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":506,"h":670},
+	"sourceSize": {"w":506,"h":670},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "und.png",
+	"frame": {"x":0,"y":670,"w":506,"h":670},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":506,"h":670},
+	"sourceSize": {"w":506,"h":670},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "doll_cindy_7.png",
+	"format": "RGBA8888",
+	"size": {"w":506,"h":1340},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b84f47999c4500c598640b50dc4edc7c:b7f250b371f5d3e0299691ea2420d4a3:3ba21329c2fb563d8fb7a17624d13a0f$"
+}
+}
